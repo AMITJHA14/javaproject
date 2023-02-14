@@ -25,7 +25,7 @@ public class ASUS extends laptopshop {
 	 System.out.println("final bill for repairing      charges is            "  + finalrepairingcharges);
     }
 
-	  void refferal() {
+ void refferal() {
 			System.out.println("you will get 20% discount");
 	
     
